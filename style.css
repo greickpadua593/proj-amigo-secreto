@@ -2,19 +2,19 @@ body{
     background-color: chartreuse;
 }
 #parte1{
-    background-color: rgb(48,48,93);
+    background-color: rgba(0, 106, 255, 0.812);
     display: flex;
     flex-direction: row;
     margin-bottom: -45px;
 }
 
 h1{
-    color: palevioletred;
+    color: pink;
     padding: 50px;
     font-size: 60px;
 }
 #parte2{
-    background-color: rgba(5,71,49);
+    background-color: rgba(245, 245, 245, 0.937);
     text-align: center;
     padding: 50px;
 
@@ -33,4 +33,15 @@ input{
 background-color: blue;
 padding: 15px;
 color: aliceblue;
+}
+ ul{
+    list-style-type: none;
+   padding: 0%;
+   margin: 0%;
+
+ }
+li{
+  background-color: aliceblue;
+  color: blue;
+  padding: 15px;
 }
